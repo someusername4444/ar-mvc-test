@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 59c1bef196f2a4f7db7880056e5d294c, type: 3}
+  m_Name: ARControllerConfig
+  m_EditorClassIdentifier: 
+  arSessionOrigin: {fileID: 8506078758071913397, guid: 39f95ebada3704762b3ab96ab5fe90f5,
+    type: 3}
+  arSession: {fileID: 4483823393958014775, guid: 7d2054df0535d429398120c8162b3da2,
+    type: 3}
+  objectToPlace: {fileID: 7041508725726413937, guid: 5b904632f80a045fd8988109f381b820,
+    type: 3}

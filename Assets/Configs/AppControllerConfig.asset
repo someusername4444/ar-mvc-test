@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3184f1c528de44e2d9d2b4433b80d68b, type: 3}
+  m_Name: AppControllerConfig
+  m_EditorClassIdentifier: 
+  mainMenuViewPrefab: {fileID: 2706769751536789492, guid: 1aa83df5340b2482b88aaf51b626cec6,
+    type: 3}
+  eventSystemPrefab: {fileID: 78213078541437433, guid: a212c92038cf6429faeb58b5a814cd4e,
+    type: 3}
+  canvasPrefab: {fileID: 3644522796378429752, guid: 5f633ca9d4d754bb98e18b05f85575e7,
+    type: 3}
+  inGameViewPrefab: {fileID: 6564449373370796805, guid: 887050da44603475e8a4ff9b2c3183df,
+    type: 3}
+  arSessionOrigin: {fileID: 8506078758071913397, guid: 39f95ebada3704762b3ab96ab5fe90f5,
+    type: 3}
+  arSession: {fileID: 4483823393958014775, guid: 7d2054df0535d429398120c8162b3da2,
+    type: 3}
